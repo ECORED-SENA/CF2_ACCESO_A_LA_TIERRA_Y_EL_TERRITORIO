@@ -71,7 +71,7 @@
               p.mb-0 Número de cabezas de ganado por finca.
             li.mb-2.d-flex.bg-white.tarjeta.p-2
               i.fas.fa-leaf.bg-color-7
-              p.mb-0 Datos demográficos: edad, género, ingresos, nivel educativo, lugar de residencia, estado civil, número de personas por unidad familiar.s.
+              p.mb-0 Datos demográficos: edad, género, ingresos, nivel educativo, lugar de residencia, estado civil, número de personas por unidad familiar.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -105,7 +105,7 @@
               h5.mb-0 Busca entender experiencias y emociones.
           .col-lg-3.mb-3.mb-lg-0(data-aos="fade-down")
             div.bg-color-4.tarjeta.h-100.text-center.p-4.d-flex.flex-column.justify-content-center.align-items-center
-              h5.mb-0 Es útil para profundizar en temas específicos
+              h5.mb-0 Es útil para profundizar en temas específicos.
     
     p.mb-5 Un ejemplo de investigación cualitativa es:
 
@@ -269,7 +269,7 @@
             li.bg-color-white.p-1.tarjeta.d-flex
               .lista-ol--cuadro__vineta
                 span b
-              | Investigación participativa (entrevistas, talleres, observación, etc.)..
+              | Investigación participativa (entrevistas, talleres, observación, etc.).
             li.bg-color-white.p-1.tarjeta.d-flex
               .lista-ol--cuadro__vineta
                 span c
@@ -452,7 +452,7 @@
               img(src="@/assets/curso/tema2/24.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-4.tarjeta.p-5(data-aos="fade-left")
-              p.mb-0 El taller es un espacio de trabajo grupal organizado que combina reflexión, diálogo, análisis y, en muchos casos, actividades prácticas. Dentro de una investigación participativa, los talleres no solo sirven para recopilar información, sino que permiten vincular activamente a la comunidad en todo el proceso investigativo.preguntas guía podrían ser:
+              p.mb-0 El taller es un espacio de trabajo grupal organizado que combina reflexión, diálogo, análisis y, en muchos casos, actividades prácticas. Dentro de una investigación participativa, los talleres no solo sirven para recopilar información, sino que permiten vincular activamente a la comunidad en todo el proceso investigativo.preguntas guía.
     
         h3.text-white.bg-color-21.d-inline.p-2.pst-3 Características del taller
 
@@ -619,7 +619,7 @@
           ul.lista-ul--color.mb-0
             li.mb-2.d-flex.bg-white.tarjeta.p-2
               i.fas.fa-leaf.bg-color-7
-              p.mb-0 Visualizar las formas de producción local (agrícola, ganadera, artesanal, comercial, entre otros.).
+              p.mb-0 Visualizar las formas de producción local (agrícola, ganadera, artesanal, comercial, entre otros).
             li.mb-2.d-flex.bg-white.tarjeta.p-2
               i.fas.fa-leaf.bg-color-7
               p.mb-0 Identificar los recursos naturales, el uso del suelo y la organización del trabajo.
@@ -962,7 +962,7 @@
                 .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/55.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Organizar el trabajo comunitario y proyectar el desarrollo
+                  p.mb-0 Organizar el trabajo comunitario y proyectar el desarrollo.
     
     h3.text-white.bg-color-21.d-inline.p-2.pst-3 Aplicación del FODA en comunidades campesinas
 
@@ -978,7 +978,7 @@
             p Se inicia con una explicación clara y sencilla sobre qué es el FODA y cuál es su utilidad. Es fundamental crear un ambiente de confianza y respeto que fomente la participación abierta de todos los asistentes.
     
           .div(titulo="Construcción de la matriz comunitaria")
-            p Se trabaja en grupo o en asamblea, utilizando materiales como papelógrafos, pizarras o técnicas participativas. Se elabora una matriz FODA comunitaria con los siguientes cuadrantes y preguntas: Fortalezas (Internas): ¿Qué hacemos bien? / ¿Qué recursos tenemos? Oportunidades (Externas): ¿Qué cosas del entorno pueden ayudarnos? / ¿Qué apoyos externos existen? Debilidades (Internas): ¿Qué nos está limitando? / ¿Qué nos falta o falla? Amenazas (Externas): ¿Qué cosas externas nos perjudican? / ¿Qué cambios podrían afectarnos negativamente?
+            p Se trabaja en grupo o en asamblea, utilizando materiales como papelógrafos, pizarras o técnicas participativas. Se elabora una matriz FODA comunitaria con los siguientes cuadrantes y preguntas: Fortalezas (internas): ¿Qué hacemos bien? / ¿Qué recursos tenemos? Oportunidades (externas): ¿Qué cosas del entorno pueden ayudarnos? / ¿Qué apoyos externos existen? Debilidades (internas): ¿Qué nos está limitando? / ¿Qué nos falta o falla? Amenazas (externas): ¿Qué cosas externas nos perjudican? / ¿Qué cambios podrían afectarnos negativamente?
     
           .div(titulo="Participación comunitaria")
             p Durante el taller, las personas dialogan y llenan colectivamente cada cuadrante de la matriz, compartiendo experiencias, propuestas y puntos de vista para llegar a consensos.
@@ -1113,7 +1113,7 @@
             .col-lg
               .p-4
                 h5 Ejemplo de anotación en diario de campo
-                p.mb-0(data-aos="fade-up") “Hoy visitamos a la familia de Don Pedro. Nos mostraron cómo organizan la cosecha del maíz. Me llamó la atención cómo todos participan, incluso los niños. Don Pedro dijo: ‘Aquí trabajamos todos, porque todos comemos’. Me hizo pensar en el valor del trabajo en comunidad. La próxima semana quieren hablar sobre cómo mejorar el sistema de riego.”
+                p.mb-0(data-aos="fade-up") “Hoy visitamos a la familia de don Pedro. Nos mostraron cómo organizan la cosecha del maíz. Me llamó la atención cómo todos participan, incluso los niños. Don Pedro dijo: ‘Aquí trabajamos todos, porque todos comemos’. Me hizo pensar en el valor del trabajo en comunidad. La próxima semana quieren hablar sobre cómo mejorar el sistema de riego.”
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

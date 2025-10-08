@@ -172,7 +172,7 @@
                 p.mb-0 Aportar información para planes de desarrollo.
               li.mb-2.d-flex.bg-white.tarjeta.p-2
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Promover el uso consciente de datos cualitativos y cuantitativos aportados por la comunidad misma
+                p.mb-0 Promover el uso consciente de datos cualitativos y cuantitativos aportados por la comunidad misma.
 
     
 

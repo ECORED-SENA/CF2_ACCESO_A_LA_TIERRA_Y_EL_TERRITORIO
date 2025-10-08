@@ -52,7 +52,7 @@
                 img(src="@/assets/curso/tema1/6.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Prácticas agropecuarias sostenibles
-              p Nivel de implementación de métodos agrícolas y ganaderos que respeten el medio ambiente, aseguren la productividad y garanticen la sostenibilidad a largo plazo.
+              p Nivel de implementación de métodos agrícolas y ganaderos que respeten el medioambiente, aseguren la productividad y garanticen la sostenibilidad a largo plazo.
           
     
     

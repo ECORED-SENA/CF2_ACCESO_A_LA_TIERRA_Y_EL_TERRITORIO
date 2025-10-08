@@ -29,7 +29,7 @@
           p.mb-0 Entre los programas más comunes y accesibles que pueden emplearse para sistematizar o tabular información en una investigación participativa, se encuentran dos herramientas ampliamente conocidas y disponibles en la mayoría de equipos: <b>Microsoft Word y Microsoft Excel</b>. A continuación, se describen sus funciones y aplicaciones más relevantes.
     
     TabsB.color-acento-contenido.mb-5
-      .py-4.py-md-5(titulo="Microsoft Word" :icono="require('@/assets/componentes/9.svg')")
+      .py-4.py-md-5(titulo="Microsoft Word" :icono="require('@/assets/componentes/10.svg')")
         .row.align-items-center.p-5
           .col-lg-7.mb-4.mb-md-0
             h4 Microsoft Word
@@ -47,7 +47,7 @@
           .col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')
-      .py-4.py-md-5(titulo="Microsoft Excel" :icono="require('@/assets/componentes/10.svg')")
+      .py-4.py-md-5(titulo="Microsoft Excel" :icono="require('@/assets/componentes/9.svg')")
         .row.align-items-center.p-5
           .col-lg-7.mb-4.mb-md-0
             h4 Microsoft Excel
