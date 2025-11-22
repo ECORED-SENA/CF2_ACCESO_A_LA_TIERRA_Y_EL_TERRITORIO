@@ -392,7 +392,7 @@
         figure
           img(src="@/assets/curso/tema2/20.png", data-aos="zoom-in")
       .col-lg-7.order-lg-1
-        p(data-aos="fade-left") El diálogo de saberes es una técnica o método de investigación que promueve un intercambio horizontal y respetuoso de conocimientos, experiencias y formas de comprender el mundo. Este diálogo se da entre personas o grupos que provienen de diferentes culturas, disciplinas o contextos sociales, y busca integrar saberes tradicionales como los conocimientos campesinos, con saberes técnicos o científicos.
+        p(data-aos="fade-left") El diálogo de saberes es una técnica o método de investigación que promueve un intercambio horizontal y respetuoso de conocimientos, experiencias y formas de comprender el mundo. Este diálogo se da entre personas o grupos que provienen de diferentes culturas, disciplinas o contextos sociales, y busca integrar saberes tradicionales, como los conocimientos campesinos, con saberes técnicos o científicos.
     
         .bg-color-23.p-4.tarjeta(data-aos="fade-left")
           p.mb-0 En otras palabras, se trata de una conversación donde se reconocen y valoran diversos tipos de conocimiento: el científico, el ancestral, el comunitario, el espiritual, el técnico, entre otros, sin que uno se imponga sobre el otro.
@@ -773,7 +773,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/t1AyR28GYzY?si=MvS2vTVQFKnmiMYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -1028,7 +1028,7 @@
       .col-lg-5
         .bg-color-5.tarjeta.p-4(data-aos="fade-left")
           img(src="@/assets/curso/tema2/59.svg", style="max-width: 90px")
-          p.mb-0 El método FODA es una herramienta participativa útil para analizar la realidad de una comunidad desde múltiples dimensiones. Ayuda a planificar con mayor claridad, tomar decisiones colectivas y fortalecer la acción comunitaria desde sus propias capacidades y contexto.
+          p.mb-0 El método FODA es una herramienta participativa útil para analizar la realidad de una comunidad desde múltiples dimensiones. Ayuda a planificar con mayor claridad, tomar decisiones colectivas y fortalecer la acción comunitaria desde sus propias capacidades y contextos.
 
     separador
     
